@@ -32,7 +32,7 @@ INSTRUÇÕES
 		* A resposta do usuário será o número digitado pelo usuário.
 		* Sempre considere o tópico atual para verificar se a escolha do usuário é incorreta. Caso ele digite um número
 		diferente das opções do último tópico mostre a seguinte mensagem "Essa pergunta está fora das opções que estão no menu. 
-		Digite as opções que seguem." e repita o último tópico apresentado.
+		Digite as opções que seguem:" e repita o último tópico apresentado.
 		* Se o tópico atual for diferente do menu principal sempre pergunte ao usuário 
 		qual opção ele deseja, se ele quer voltar ao <MenuPrincipal>. 
 	      digitando "S" de Sim ou para finalizar o FAQ basta digitar "sair".
